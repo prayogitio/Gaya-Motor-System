@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_masuk_motor_baru"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        tools:context="com.architect.code.gayapembukuan.MasukMotorBaru">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:text="Motor Baru"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="No. Plat: (harus isi)"
+            android:textColor="#000"
+            android:textSize="20sp"/>
+        <EditText
+            android:id="@+id/plat_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Isi nomor plat"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tahun:"
+            android:textColor="#000"
+            android:textSize="20sp"/>
+        <EditText
+            android:id="@+id/tahun_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Isi tahun"
+            android:inputType="number"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Merk:"
+            android:textColor="#000"
+            android:textSize="20sp"/>
+        <EditText
+            android:id="@+id/merk_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Isi merk motor"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tipe:"
+            android:textColor="#000"
+            android:textSize="20sp"/>
+        <EditText
+            android:id="@+id/tipe_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Isi tipe motor"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Modal:"
+            android:textColor="#000"
+            android:textSize="20sp"/>
+        <EditText
+            android:id="@+id/modal_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Isi harga pembelian"
+            android:inputType="number"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tanggal Beli:"
+            android:textColor="#000"
+            android:textSize="20sp"/>
+        <EditText
+            android:id="@+id/tanggal_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Tanggal Pembelian"
+            android:inputType="text"
+            android:textSize="20sp"/>
+        <Button android:id="@+id/btnTerjual"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text = "Sudah Terjual"
+            android:layout_weight="0.2"/>
+    </LinearLayout>
+</ScrollView>

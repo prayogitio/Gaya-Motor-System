@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\df4cfd38995219b9053b79c752177b68f6bdf508\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc080b99b1b91497618ee5ad163604b3d44c2a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\5a00d201d2a9b348b8e101fb15825a3d4a620530\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d9611dbe38dc3374e4568fb8f132a4bf60597a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\975089051cc01796f2d362ebd64c2aeded65f015\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1419820c2eac8469ba75036b535988e14819e0fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\f2876f815c573e73e39c8f873375f37da03e1299\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53a24e6179082dab1d3922ff797e07b8da4b2f1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_6e895654f2be9651e5f89d8c70f66332669b736c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\9eae010ab1440f4e54b625896f7f2f15e2c700bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5e5bb6c8f2eb5b50774031491edc18235c711ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gaya_system_android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da02ae9c41be848fa00bd56e8506123d8afbe22f">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f18bab17af722dfb079c118fae0f89d9752ee4fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\4f19af9b2d1d151987d2e46ca4c498d38f22a21e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_028fad6532137083a327dd3010a6055e991cc7e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\007fe9d6b3b310128916e5214253a8540abb882b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2234df15fb062829422806d19657cc573152c47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\bf57657a0aaf35d224cfc71c0bd9a64128dd1056\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0cd981ce99880bb62a79d1d24a6ab1e7fb0b7f96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\gaya_system_android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d0afe16d6b58070926618abc636c340e3fba6222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\d99c0577b7189f4126dd04ac22133d472ceee067\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4e3aa90bbd7d96763bd14b1f8e7bf9246fbce26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\0773be7841a1d70bfa2fc687b053f13ac35a1191\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5564f29c0be2264863716902139dc489508b52b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\79fc6300579049c9bf53577632b543c1bcbc6d5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bca9dbf03c37bbe21d9320b3ad54fa18b5662714\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\c1ba5c61e0d8f1e2518011aab09db0ed9490ab38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\gaya_system_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7012ec8e5fb3d6bba1a0116cf97e9b04b8aa09cc\classes.dex" />
+    </item>
+
+</items>

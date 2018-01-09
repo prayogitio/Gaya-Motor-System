@@ -1,0 +1,95 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="com.architect.code.gayapembukuan.PembukuanFragmentChildView">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#000"
+        android:textAlignment="center"
+        android:text="Pembukuan"/>
+    <TextView
+        android:id="@+id/labelTanggal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelId"
+        android:text="Tanggal :"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/etTanggal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/labelId"
+        android:layout_toRightOf="@id/labelTanggal"
+        android:inputType="date"
+        android:textSize="20dp" />
+    <TextView
+        android:id="@+id/labelKeterangan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/labelTanggal"
+        android:text="Keterangan :"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/etKeterangan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/labelKeterangan"
+        android:minLines="4"
+        android:textSize="20dp" />
+    <TextView
+        android:id="@+id/labelDebit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etKeterangan"
+        android:text="Debit :"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/etDebit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etKeterangan"
+        android:layout_toRightOf="@id/labelDebit"
+        android:inputType="number"
+        android:textSize="20dp" />
+    <TextView
+        android:id="@+id/labelKredit"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/labelDebit"
+        android:layout_height="wrap_content"
+        android:text="Kredit :"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/etKredit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/labelDebit"
+        android:layout_toRightOf="@id/labelKredit"
+        android:inputType="number"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/labelSaldo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Saldo :"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/etSaldo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:textSize="20dp" />
+
+</LinearLayout>
